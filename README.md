@@ -1,3 +1,3 @@
 # Go言語を勉強するなり
 
-[公式チュートリアル](https://go.dev/doc/tutorial/)
+[初めてのGo言語](https://www.amazon.co.jp/dp/4814400047)
